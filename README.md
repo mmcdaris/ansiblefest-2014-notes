@@ -12,11 +12,12 @@ http://www.ansible.com/ansiblefest-san-francisco
 **author:** J.R. Rivers CEO
 >Cumulus’s J.R. Rivers will present about the changing face of network automation, focusing on how Ansible’s SSH-based management and Cumulus’s native-Linux interface work so well together to make networking painless to configure and extremely powerful.
 
-[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/ansible-cumulus.md)
 
 ### Telescope.tv - Breaking Up With Your Datacenter
 **author:** John Weatherford and Iain Wright
 > Telescope.tv powers voting behind some of the world’s most popular TV shows, including American Idol.  In this talk, discuss how they moved from a baremetal datacenter to AWS, things learned along the way, and how they scale up to meet voting demand with Ansible.
+
+[notes]()
 
 ### BigPanda - Automating ALL THE THINGS with a one-man Ops team
 **author:** Dan Chuparkoff
