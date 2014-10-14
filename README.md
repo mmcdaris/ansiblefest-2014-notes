@@ -10,12 +10,6 @@ http://www.ansible.com/ansiblefest-san-francisco
 
 [notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/michael-dehaan-news-community.md)
 
-### Cumulus Networks - Ansible & Cumulus
-**author:** J.R. Rivers CEO
-> Cumulus’s J.R. Rivers will present about the changing face of network automation,
-> focusing on how Ansible’s SSH-based management and Cumulus’s native-Linux interface
-> work so well together to make networking painless to configure and extremely powerful.
-
 ### Telescope.tv - Breaking Up With Your Datacenter
 **author:** John Weatherford and Iain Wright
 > Telescope.tv powers voting behind some of the world’s most popular TV shows,
@@ -45,14 +39,14 @@ http://www.ansible.com/ansiblefest-san-francisco
 
 [notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/dev-on-ansible-by-Brian-Coca.md)
 
-### Google - Scalable Continuous Deployment with Ansible and Google
-**author:** Eric Johnson
-Learn how to massively scale out an Ansible powered computing infrastructure using Ansible and Google Cloud Services.  If you’ve seen previous GCE talks, this one will go into a lot more depth about particular details and how to wire up specific Ansible integrations focusing on managing especially large architectures.
-
 ### Ansible - Best Practices, Tips, & Tricks
 **author:**  James Cammarata and Toshio Kuratomi
-Learn directly from Senior Ansible Engineers about Best practices around topics like role and playbook organization, and some clever features and tricks available in recent Ansible releases.
+> Learn directly from Senior Ansible Engineers about Best practices around
+> topics like role and playbook organization, and some clever features and
+> tricks available in recent Ansible releases.
 
 ### Ansible - What is new in Tower 2.0
 **author:** Dave Johnson
-> Ansible’s Dave Johnson will provide an in-depth demo of Ansible Tower 2.0, including it’s new UI, new realtime job details, realtime job status, and expanded cloud support for graphical inventory management and provisioning.
+> Ansible’s Dave Johnson will provide an in-depth demo of Ansible Tower 2.0,
+> including it’s new UI, new realtime job details, realtime job status,
+> and expanded cloud support for graphical inventory management and provisioning
