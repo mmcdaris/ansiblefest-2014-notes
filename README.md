@@ -4,28 +4,46 @@ http://www.ansible.com/ansiblefest-san-francisco
 
 ### Ansible - Welcome to AnsibleFest - What's New In Ansible
 **author:** Michael DeHaan
->Take a quick look at the Ansible community’s growth over the past year, and dive in to learn about new features in Ansible 1.7.X and upcoming features in 1.8, in detail, from the creator of Ansible.
+> Take a quick look at the Ansible community’s growth over the past year
+> and dive in to learn about new features in Ansible 1.7.X and
+> upcoming features in 1.8, in detail, from the creator of Ansible.
 
-[Link to notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/michael-dehaan-news-community.md)
+[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/michael-dehaan-news-community.md)
 
 ### Cumulus Networks - Ansible & Cumulus
 **author:** J.R. Rivers CEO
->Cumulus’s J.R. Rivers will present about the changing face of network automation, focusing on how Ansible’s SSH-based management and Cumulus’s native-Linux interface work so well together to make networking painless to configure and extremely powerful.
-
+> Cumulus’s J.R. Rivers will present about the changing face of network automation,
+> focusing on how Ansible’s SSH-based management and Cumulus’s native-Linux interface
+> work so well together to make networking painless to configure and extremely powerful.
 
 ### Telescope.tv - Breaking Up With Your Datacenter
 **author:** John Weatherford and Iain Wright
-> Telescope.tv powers voting behind some of the world’s most popular TV shows, including American Idol.  In this talk, discuss how they moved from a baremetal datacenter to AWS, things learned along the way, and how they scale up to meet voting demand with Ansible.
+> Telescope.tv powers voting behind some of the world’s most popular TV shows,
+> including American Idol.  In this talk, discuss how they moved from a
+> baremetal datacenter to AWS, things learned along the way,
+> and how they scale up to meet voting demand with Ansible.
 
-[notes]()
+[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/telescope.md)
 
 ### BigPanda - Automating ALL THE THINGS with a one-man Ops team
 **author:** Dan Chuparkoff
-Dan will present how, in less than 6 months and with a 1-person team, they went from no infrastructure automation, to having all of their infrastructure automated with Ansible.  Learn how BigPanda handles zero-downtime infrastructure updates and connects ansible with their chat infrastructure, and some strategies on managing automation projects with very small teams.
+> Dan will present how, in less than 6 months and with a 1-person team,
+> they went from no infrastructure automation, to having all of their
+> infrastructure automated with Ansible.  Learn how BigPanda handles
+> zero-downtime infrastructure updates and connects ansible with their chat
+> infrastructure, and some strategies on managing
+> automation projects with very small teams.
+
+[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/big-panda.md)
 
 ### Developing On And Extending Ansible
 **author:** Brian Coca
-Brian Coca is one of the more notable presences on Ansible’s IRC and mailing list, and has numerous commits in Ansible Core.  Brian will discuss how to develop on ansible, including writing modules and various plugins, and give more detail about various internals.  If you’ve wanted to contribute to Ansible or extend it for any reason, this should be a great talk.
+> Brian Coca is one of the more notable presences on Ansible’s IRC and mailing list,
+> and has numerous commits in Ansible Core.  Brian will discuss how to develop on ansible,
+> including writing modules and various plugins, and give more detail about various internals.
+> If you’ve wanted to contribute to Ansible or extend it for any reason, this should be a great talk.
+
+[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/dev-on-ansible-by-Brian-Coca.md)
 
 ### Google - Scalable Continuous Deployment with Ansible and Google
 **author:** Eric Johnson
