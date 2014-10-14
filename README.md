@@ -5,14 +5,14 @@ http://www.ansible.com/ansiblefest-san-francisco
 ### Ansible - Welcome to AnsibleFest - What's New In Ansible
 **author:** Michael DeHaan
 >Take a quick look at the Ansible community’s growth over the past year, and dive in to learn about new features in Ansible 1.7.X and upcoming features in 1.8, in detail, from the creator of Ansible.
-[Link to
-notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/michael-dehaan-news-community.md)
+
+[Link to notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/michael-dehaan-news-community.md)
 
 ### Cumulus Networks - Ansible & Cumulus
 **author:** J.R. Rivers CEO
 >Cumulus’s J.R. Rivers will present about the changing face of network automation, focusing on how Ansible’s SSH-based management and Cumulus’s native-Linux interface work so well together to make networking painless to configure and extremely powerful.
-[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/ansible-cumulus.md)
 
+[notes](https://github.com/mmcdaris/ansiblefest-2014-notes/blob/master/ansible-cumulus.md)
 
 ### Telescope.tv - Breaking Up With Your Datacenter
 **author:** John Weatherford and Iain Wright
